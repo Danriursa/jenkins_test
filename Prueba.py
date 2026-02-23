@@ -1,5 +1,5 @@
 def funcion_prueba():
-    print("Te cambie perron jejejee")
+    print("Lo hice bien")
 
 if __name__ == "__main__":
     funcion_prueba()
